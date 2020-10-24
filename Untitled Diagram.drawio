@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T01:26:32.101Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="XzaA7LSXIl4GbOSmJSJN" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T01:39:04.756Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="xQ9foeI2ICX_zeJ6qRXq" version="13.8.1" type="github">
   <diagram id="QcpEmF6vk5Tn9n3C3DT-" name="Page-1">
-    <mxGraphModel dx="1718" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1573" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="czOrSNz95ug9E47SChGq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="czOrSNz95ug9E47SChGq-11" target="czOrSNz95ug9E47SChGq-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="czOrSNz95ug9E47SChGq-11" value="Add NSK" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+        <mxCell id="czOrSNz95ug9E47SChGq-11" value="Add NSK" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czOrSNz95ug9E47SChGq-12" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="czOrSNz95ug9E47SChGq-6" target="czOrSNz95ug9E47SChGq-10">
@@ -46,7 +46,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="czOrSNz95ug9E47SChGq-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="czOrSNz95ug9E47SChGq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czOrSNz95ug9E47SChGq-13" target="czOrSNz95ug9E47SChGq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="czOrSNz95ug9E47SChGq-13" value="Add Schema" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czOrSNz95ug9E47SChGq-14" value="Regular User" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -72,6 +75,18 @@
         </mxCell>
         <mxCell id="czOrSNz95ug9E47SChGq-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/simple-arrow/512/arrow_17-128.png;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="czOrSNz95ug9E47SChGq-23" value="TODO - NSK by Default?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="czOrSNz95ug9E47SChGq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czOrSNz95ug9E47SChGq-24" target="czOrSNz95ug9E47SChGq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="czOrSNz95ug9E47SChGq-24" value="BE Invoice Generator" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="czOrSNz95ug9E47SChGq-25" value="Invoice" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
